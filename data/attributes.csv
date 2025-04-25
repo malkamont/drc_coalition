@@ -1,0 +1,206 @@
+actor;realm;type;name;account;note
+CD001;external;BUS;Aera Group;aera_group;NA
+CD002;national;BUS;Booming Green;NA;NA
+CD003;regional;BUS;Brabanta;NA;Socfin Group
+CD004;external;BUS;China Railway Group;CRECofficial;NA
+CD005;national;MRY;Ministère des Affaires Étrangères;RDC_Minafet;NA
+CD006;external;BUS;Compagnie Forestière de Transformation;NA;CFT, Norsudtimber Group
+CD007;external;BUS;Congo BioFuels;NA;Hawkwood Capital
+CD008;national;BUS;Congo Emissions Management;NA;CEM, Groupe Blattner Elwyn
+CD009;external;BUS;Congo Oil and Derivatives;NA;COD, Socimex Group
+CD010;external;BUS;Congolaise Industrielle des Bois;Olam;OLAM International
+CD011;external;BUS;Établissements Kitenge Lola;NA;NA
+CD012;regional;BUS;Forêt Ressources Management;FRMgroupe;NA
+CD013;external;BUS;Fortescue Metals Group;FortescueNews;NA
+CD014;national;BUS;Générale des Carrières et des Mines;Gecamines;Gécamines
+CD015;external;BUS;Glencore;Glencore;NA
+CD016;national;BUS;Ibi Batéké Degraded Savannah Afforestation Project;NA;Novacel
+CD017;national;BUS;Industrie Forestière du Congo;NA;Tajideen Family
+CD018;national;BUS;Kipay Investments;NA;NA
+CD019;national;BUS;Maniema Union;NA;NA
+CD020;national;BUS;Motema;NA;NA
+CD021;external;BUS;Pharos Energy;pharosenergy;NA
+CD022;national;BUS;Plantations et Huileries du Congo;PHC_RDC;Kuramo Capital
+CD023;national;BUS;Sino-Congolaise des Mines;SICOMINES;Sicomines
+CD024;external;BUS;Sinohydro;SinohydroCorpo1;Power Construction Corporation of China
+CD025;national;BUS;Société d'Exploitation Agro-industriel de Bukanga Lonzo;SepagriOfficial;NA
+CD026;national;BUS;Société de Developpement Forestier;SODEFOROFFICIEL;SODEFOR, Norsudtimber Group
+CD027;national;BUS;Société Forestière et Agricole de la M'Bola;NA;FORABOLA, Norsudtimber Group
+CD028;national;BUS;Societé Forestiere et des Matieres Ligneuses Africaines;NA;SOFORMA, Norsudtimber Group
+CD029;national;BUS;Société Forestière pour le Développement du Congo;NA;FODECO, Chinese ownership
+CD030;national;BUS;Société Industrielle Congolaise De Bois;NA;SICOBOIS
+CD031;national;BUS;Société Industrielle et Forestière du Congo;NA;SIFORCO, Groupe Blattner Elwyn
+CD032;national;BUS;Société la Millénaire Forestière;NA;SOMIFOR, Chinese ownership
+CD033;external;BUS;Wildlife Works Carbon;WildlifeWorks;NA
+CD034;national;BUS;Equity Banque Commerciale du Congo;EquityBCDC;NA
+CD035;national;BUS;Vodacomcongo;Vodacomcongo;NA
+CD036;regional;DFI;African Development Bank;AfDB_Group;NA
+CD037;regional;DFI;Central African Forest Initiative;CAFISecretariat;NA
+CD038;external;DFI;Climate Investment Funds;CIF_Action;NA
+CD039;external;DFI;Global Environment Facility;theGEF;NA
+CD040;external;DFI;Green Climate Fund;theGCF;NA
+CD041;external;DFI;International Fund for Agricultural Development;leFIDA;NA
+CD042;external;DFI;UN-REDD;unredd;NA
+CD043;external;DFI;World Bank;BM_Afrique;+ International Finance Corporation + Programmes
+CD044;external;IGO;World Food Programme;WFPDRC;NA
+CD045;external;IGO;Global Forest Observations Initiative;NA;NA
+CD046;regional;IDA;African Union;AfricanUnionDRC;+ Aid + AFR100
+CD047;external;IDA;Belgium Ministry of Foreign Affairs, Foreign Trade and Development Cooperation;BelgiqueRDCongo;+ Aid + Finance
+CD048;external;IDA;China Ministry of Foreign Affairs;AmbCHINEenRDC;+ Aid + Department of African Affairs + China-Africa Development Fund + Export-Import Bank of China
+CD049;external;IDA;European Commission;UEenRDC;+ DG Environment + DG International Partnerships + European External Action Service + REDDCopernicus
+CD050;external;IDA;France Ministry for Europe and Foreign Affairs;AmbaFranceRDC;+ Aid + Finance
+CD051;external;IDA;Germany Federal Ministry of Economic Cooperation and Development;Allemagne_RDC;+ Aid + Finance
+CD052;external;IDA;Japan International Cooperation Agency;JicaRdc;+ Finance
+CD053;external;IDA;Korea Ministry of Foreign Affairs;mofa_kr;+ Korea Forest Service
+CD054;external;IDA;Netherlands Ministry of Foreign Affairs;DutchMFA;+ Aid + Finance
+CD055;external;IDA;Norway Ministry of Climate and Environment;NorwayInDRC;+ Aid + Finance
+CD056;external;IDA;United Kingdom Foreign, Commonwealth and Development Office;UKinDRC;+ Aid + Finance
+CD057;external;IDA;United States Agency for International Development;USEmbKinshasa;+ Finance + United States Forest Service + SilvaCarbonGlobal
+CD058;regional;IGO;Central African Forests Commission;comifac;+ Congo Basin Forest Partnership + Central Africa Forest Observatory
+CD059;external;IGO;International Tropical Timber Organisation;itto_sfm;NA
+CD060;external;IGO;United Nations Framework Convention on Climate Change;CCNUCC;NA
+CD061;external;IGO;United Nations Development Programme;PNUDRDC;NA
+CD062;external;IGO;United Nations Environment Programme;UNEP_Africa;NA
+CD063;external;IGO;United Nations Food and Agriculture Organisation;FAORDCongo;NA
+CD064;external;IGO;European Development Finance Institutions;EDFInetwork;NA
+CD065;external;IGO;Interpol Environmental Security Programme;INTERPOL_EC;NA
+CD066;regional;NGO;African Wildlife Foundation;AWF_Official;NA
+CD067;external;NGO;Carbon Market Watch;CarbonMrktWatch;NA
+CD068;external;NGO;Carter Center;CongoMines;NA
+CD069;external;NGO;Conservation International;ConservationOrg;NA
+CD070;external;NGO;Earthsight;earthsight;NA
+CD071;external;NGO;Environmental Investigation Agency;EIA_News;NA
+CD072;external;NGO;Extinction Rebellion;ExtinctionR;NA
+CD073;external;NGO;Forest Peoples Programme;ForestPeoplesP;NA
+CD074;external;NGO;Forest Stewardship Council;FSC_Africa;NA
+CD075;external;NGO;Forest Trends;foresttrendsorg;NA
+CD076;external;NGO;Forests and the European Union Resource Network;Fern_NGO;NA
+CD077;external;NGO;Friends of the Earth;FoEAfrica;NA
+CD078;external;NGO;Global Canopy Programme;GlobalCanopy;NA
+CD079;external;NGO;Global Financial Integrity;IllicitFlows;NA
+CD080;external;NGO;Financial Transparency Coalition;FinTrCo;NA
+CD081;external;NGO;Transparency International;anticorruption;NA
+CD082;regional;NGO;African Centre for Tax and Governance;ACTGTaxAfrica;NA
+CD083;external;NGO;Global Alliance for Tax Justice;gfc123;NA
+CD084;external;NGO;Global Forest Coalition;GA4TJ;NA
+CD085;external;NGO;Global Witness;GW_DRC;NA
+CD086;external;NGO;Greenpeace;GreenpeaceAfrik;NA
+CD087;external;NGO;Human Rights Watch;hrw_fr;NA
+CD088;external;NGO;ICCA Consortium;ICCAConsortium;NA
+CD089;external;NGO;L'Initiative pour la Transparence des Industries Extractives;itierdc;NA
+CD090;external;NGO;International Rivers;intlrivers;NA
+CD091;external;NGO;International Union for Conservation of Nature;UICN_PACO;NA
+CD092;external;NGO;Mongabay;mongabay;NA
+CD093;external;NGO;Natural Resource Governance Institute;NRGInstitute;NA
+CD094;external;NGO;Oakland Institute;oak_institute;NA
+CD095;external;NGO;Oxfam International;OxfamEAfrica;NA
+CD096;external;NGO;Preferred by Nature;PreferbyNature;NA
+CD097;external;NGO;Proforest Group;proforest;NA
+CD098;external;NGO;Rainforest Foundation;RFUK;NA
+CD099;external;NGO;Rights and Resources Initiative;RightsResources;NA
+CD100;external;NGO;Tax Justice Network;TaxJusticeNet;NA
+CD101;external;NGO;Tropenbos International;Tropenbos;NA
+CD102;external;NGO;Tropical Forest Alliance;tfa_Global;NA
+CD103;external;NGO;Verra;VerraStandards;NA
+CD104;external;NGO;Wildlife Conservation Society;WCSRDCONGO;NA
+CD105;external;NGO;World Rainforest Movement;WorldRainforest;NA
+CD106;external;NGO;World Resources Institute;WRIafrica;+ Global Forest Watch + Global Restoration Initiative
+CD107;external;NGO;World Wildlife Fund for Nature;WWF_Africa;NA
+CD108;external;NGO;NYDF Global Platform;Forest_Platform;NA
+CD109;national;INT;Association Congolaise des Exploitants Forestiers Artisanaux;NA;NA
+CD110;regional;INT;Association Technique Internationale des Bois Tropicaux;ATIBT_Asso;NA
+CD111;national;INT;Comité National pour la promotion de l’Agriculture Familiale;cnpafrdc;NA
+CD112;national;INT;Confédération Nationale des Producteurs Agricoles du Congo;ConapacRDC;NA
+CD113;national;INT;Confédération Paysanne du Congo;copacoprp;NA
+CD114;national;INT;Fédération des Entreprises du Congo;FECRDC;+ Chambre des Mines
+CD115;national;INT;Fédération des Industriels du Bois;NA;NA
+CD116;national;INT;Union Nationale des Agriculteurs, Pêcheurs et Éleveurs du Congo;NA;NA
+CD117;national;MRY;Ministère de l'Agriculture;minagri_rdc;+ Conseil Interprofessionnel pour la Promotion de l'Agriculture
+CD118;national;MRY;Ministère de la Communication et Médias;Com_mediasRDC;NA
+CD119;national;MRY;Ministère de l'Environnement et Développement Durable;MinEnvRDC;+ L'Institut Congolais pour la Conservation de la Nature + Unité de Coordination du Programme d'Investissement pour la Forêt + Parc National des Virunga
+CD120;national;MRY;Ministère du Commerce Extérieur;MinComEx_cd;NA
+CD121;national;MRY;Ministère des Finances;financesrdc;+ Fonds National REDD
+CD122;national;MRY;Ministère des Hydrocarbures;Min_HydroRDC;NA
+CD123;national;MRY;Ministère de l'Industrie;IndustrieRdc;+ Agence Nationale pour la Promotion des Investissements
+CD124;national;MRY;Ministère des Infrastructures et Travaux publics;MinITP_RDC;NA
+CD125;national;MRY;Ministère de la Coopération Internationale, Intégration Régionale et Francophonie;CoopMinRdc;NA
+CD126;national;MRY;Ministère des Affaires Foncières;CadastreRDC;+ Commission Nationale de la Réforme Foncière
+CD127;national;MRY;Ministère des Mines;Mines_RDC;NA
+CD128;national;MRY;Ministère de l'Économie Nationale;EconatRDC;NA
+CD129;national;MRY;Ministère du Plan;PlanRdc;NA
+CD130;national;MRY;Ministère du Développement Rural;devrural_rdc;NA
+CD131;national;MRY;Ministère de l'Aménagement du Territoire;MinAT_RDC;+ l'Institut National de la Statistique
+CD132;national;MRY;Ministère des Ressources Hydrauliques et Electricité;DesRessources;NA
+CD133;national;MRY;Présidence de la République Démocratique du Congo;Presidence_RDC;NA
+CD134;national;MRY;Primature de la République Démocratique du Congo;PrimatureRDC;NA
+CD135;national;MRY;Ministère des Droits Humains;droitshumains_M;NA
+CD136;national;NGO;Réseau des Organisations de la Société Civile pour l'Économie Verte en Afrique Centrale;roscevac;NA
+CD137;national;NGO;Actions pour la Promotion et Protection des Peuples et Espèces Menacés;RdcApem;NA
+CD138;national;NGO;Alliance Nationale d’Appui et de Promotion des Aires du Patrimoine Autochtone et Communautaire;NA;NA
+CD139;national;NGO;Association Paysanne pour la Réhabilitation et Protection des Pygmées;PreppygR;NA
+CD140;national;NGO;Centre d'Appui à la Gestion Durable des Forêts Tropicales;foretstropicale;NA
+CD141;national;NGO;Cercle pour la defense de l'environnement;NA;NA
+CD142;national;NGO;Coalition des Femmes Leaders pour l’Environnement et le Développement Durable;cfleddrdc;NA
+CD143;national;NGO;Coalition Nationale de Lutte contre l'Exploitation Illégale du Bois en RDC;cnceib;NA
+CD144;national;NGO;Conférence Épiscopale Nationale du Congo;CENCO__RDC;NA
+CD145;national;NGO;Conseil National des ONG de Développement;CnongdRdc;NA
+CD146;national;NGO;Conseil pour la Défense Environnementale par la Légalité et la Traçabilité;Codelt;NA
+CD147;national;NGO;Droits, Environnement et Citoyennete Organisation;DEC_Organisatio;NA
+CD148;national;NGO;Dynamique des Groupes de Peuples Autochtones;NA;NA
+CD149;national;NGO;Femmes Solidaires;FESOorg;NA
+CD150;national;NGO;Groupe D'Action Pour Sauver L'Homme Et Son Environnement;GasheOngd;NA
+CD151;national;NGO;Groupe de Travail Climat REDD;NA;NA
+CD152;national;NGO;Groupe de Travail Climat REDD Rénové;GTCRR1;NA
+CD153;national;NGO;Le Congo N'est Pas à Vendre;CorruptionTue;NA
+CD154;national;NGO;Ligue nationale des associations des autochtones pygmées du Congo;LinapycoRdc;NA
+CD155;national;NGO;Organisation Congolaise des Ecologistes et Amis de la Nature;ocean_rdc;NA
+CD156;national;NGO;Réseau d’Information et d’Appui aux ONG Nationales;RdcRiao;NA
+CD157;national;NGO;Réseau des Communicateurs pour l'Environnement et l'Information en Afrique Centrale;NA;NA
+CD158;national;NGO;Réseau des Populations Autochtones et Locales pour la Gestion Durable des Ecosystèmes Forestiers;repalef_rdc;NA
+CD159;national;NGO;Réseau National des Observateurs Indépendants en RDC;NA;NA
+CD160;national;NGO;Réseau pour la Conservation et la Réhabilitation des Écosystèmes Forestiers;reseau_cref;NA
+CD161;national;NGO;Réseau Ressources Naturelles;NA;NA
+CD162;national;NGO;Save Virunga;SaveVirunga;NA
+CD163;external;NGO;350;350Africa;NA
+CD164;regional;NGO;African Resources Watch;afrewatch;NA
+CD165;national;NGO;Environews;environews_rdc;NA
+CD166;regional;NGO;Le Hub Rural;hubrural;NA
+CD167;national;NGO;Observatoire de la Dépense Publique;odeprdc;NA
+CD168;national;NGO;Desk Nature;DeskNature;NA
+CD169;national;POC;Coalition Lamuka;coalitionlamuka;NA
+CD170;national;POC;Front Commun pour le Congo;FCC_RDC;NA
+CD171;national;POC;Cap pour le Changement;CoalitionCach;NA
+CD172;external;SCI;Alliance of Bioversity International and International Centre for Tropical Agriculture;BiovIntCIAT_eng;NA
+CD173;national;SCI;Cellule d'Analyses des Indicateurs de Développement;NA;NA
+CD174;external;SCI;Center for International Forestry Research;CIFOR_forets;NA
+CD175;external;NGO;Global Landscapes Forum;GlobalLF;NA
+CD176;external;SCI;Centre de Coopération Internationale en Recherche Agronomique pour le Développement;Cirad;NA
+CD177;national;SCI;Congo Research Group;GEC_CRG;NA
+CD178;national;SCI;CongoPeat Programme;CongoPeat;NA
+CD179;national;NGO;Lutte pour le Changement;luchaRDC;NA
+CD180;national;SCI;Institut National d'Études et de Recherche Agricoles;IneraRdc;NA
+CD181;external;SCI;International Centre for Tax and Development;ICTDTax;NA
+CD182;external;SCI;International Council for Research in Agroforestry;ICRAF;NA
+CD183;external;SCI;International Food Policy Research Institute;IFPRI_Africa;NA
+CD184;external;SCI;International Institute for Environment and Development;IIED;NA
+CD185;external;SCI;International Institute of Tropical Agriculture;IITA_CGIAR;NA
+CD186;external;SCI;International Union of Forest Research Organizations;IUFRO;NA
+CD187;national;SCI;L'Ecole Régionale Postuniversitaire d’Aménagement et de Gestion intégrés des Forêts et Territoires Tropicaux;NA;NA
+CD188;national;SCI;Observatoire de la Gouvernance Forestière;ogfrdc;NA
+CD189;regional;SCI;Observatoire Satellital des Forêts d'Afrique Centrale;OSFAC_NGO;NA
+CD190;national;SCI;Université de Kinshasa;Unikinrdc;NA
+CD191;national;SCI;Université de Kisangani;Unikis1;NA
+CD192;national;SCI;Université de Lubumbashi;uniluofficiel;NA
+CD193;external;SCI;University of Maryland Global Land Analysis and Discovery;UMD_GLAD;NA
+CD194;regional;SCI;Observation Forestière dans le Bassin du Congo;pasgofsnoie;NA
+CD195;national;TRU;Confédération Démocratique du Travail;CDTSYNDICAT;NA
+CD196;national;TRU;Confédération Générale du Travail du Congo;NA;NA
+CD197;national;TRU;Union Nationale des Travailleurs du Congo;untcrdc;NA
+CD198;national;NGO;Congo Environnement et Nature;cen_drc;NA
+CD199;national;NGO;Congo Education Partners;PartnersCongo;NA
+CD200;regional;NGO;Rise Up Movement;RiseUpMovDRC;NA
+CD201;regional;BUS;BBOXX;BBOXX_RDC;NA
+CD202;external;NGO;Rainforest Action Network;RAN;NA
+CD203;national;BUS;Somicongo;SomiSarl;NA
+CD204;external;IGO;International Tropical Peatlands Center;tropeatlands;NA
+CD205;external;IGO;European Forest Institute;europeanforest;NA
